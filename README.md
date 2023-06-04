@@ -32,6 +32,8 @@ export DBHOST=172.17.0.2
 export DBPORT=3306
 ```
 ```
+
+
 export DBUSER=root
 export DATABASE=employees
 export DBPWD=pw
